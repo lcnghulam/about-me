@@ -1,12 +1,14 @@
-<h1 align="center">🌟 Welcome to 👋 - AGA DEV - 🌟</h1>
+<h1 align="center">Welcome to - AGA DEV -</h1>
  
  <p align="center">
    <img src="https://github.com/lcnghulam.png" width="100" alt="Profile Image"/>
  </p>
- 
+
  <p align="center">
-   🚀 Selamat Datang di Profil Pribadi saya!
-   🎨 Desain minimalis & interaktif
+  🚀 Visit My Digital Space :
+ </p>
+ <p align="center">
+   🔗 <a href="https://aga.is-a.dev" target="_blank">aga.is-a.dev</a>
  </p>
 
 ## 📊 **Github Stats**
@@ -22,7 +24,7 @@
  
  ## 🌐 **Socials**
  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lcnghulam1@gmail.com)
- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-ghulam-azkiya-778401160/))
+ [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-ghulam-azkiya-778401160/)
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.com.com/lcnghulam)
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://ig.com/lcn_ghulam)
  
@@ -91,13 +93,13 @@
   ✅ cek-mentimun-kkn
  </p>
  <p>
-  ✅ vita-medika
+  ✅ <a href="https://vitamedikakediri.com" target="_blank">vita-medika</a> [Builder][No-longer Maintenance]
  </p>
  <p>
   ✅ proto-struk-simple
  </p>
  <p>
-  ✅ twibbon-polkesma
+  ✅ <a href="https://twibbon-polkesma.zone.id" target="_blank">twibbon-polkesma</a>
  </p>
 </div>
  
