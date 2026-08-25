@@ -90,7 +90,7 @@
   ✅ webgis-petani-desa-bedug
  </p>
  <p>
-  ✅ cek-mentimun-kkn
+  ✅ <a href="https://cekmentimun-kkn.vercel.app/" target="_blank">cek-mentimun-kkn</a>
  </p>
  <p>
   ✅ <a href="https://vitamedikakediri.com" target="_blank">vita-medika</a> [Builder][No-longer Maintenance]
